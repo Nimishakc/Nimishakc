@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
  
 ### 📫 How to reach me: ...
 <div >
-<!-- <a href="mailto:arunraju9837@gmail.com?"> -->
-<!-- <a href="https://github.com/arunnintriva/arunnintriva"> -->
+<a href="mailto:nimishakc98@gmail.com?">
+<a href="https://github.com/Nimishakc/Nimishakc">
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="GitHub" width="35" height="35">
 </a>
 <!-- <a href="https://www.linkedin.com/in/arun-raju-05374a1b7"> -->
